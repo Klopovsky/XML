@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE pref>
-<prefer first_movie="Terminator2" best_food="bread" best_country="Italy">
+<prefer first_movie="Terminator2" best_food="bread" best_country="Italy" best_serial = "Simpsons" best_season = "summer">
    <title>
       Любимки
    </title>
